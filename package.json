@@ -1,6 +1,6 @@
 {
   "name": "auto-answering",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "damilurg",
   "description": "A configurable Node.js Telegram bot for Premium users that automatically replies to messages based on customizable triggers and replies, simulates typing behavior, supports multi-language responses, and logs messages for auditing.",
