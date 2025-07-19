@@ -1,16 +1,27 @@
 {
-  "name": "auto-responder",
-  "version": "1.0.0",
+  "name": "auto-answering",
+  "version": "0.0.2",
   "main": "index.js",
+  "author": "damilurg",
+  "description": "A configurable Node.js Telegram bot for Premium users that automatically replies to messages based on customizable triggers and replies, simulates typing behavior, supports multi-language responses, and logs messages for auditing.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "telegram",
+    "bot",
+    "auto-reply",
+    "auto-answering",
+    "telegram-premium",
+    "telegram-bot",
+    "nodejs",
+    "javascript"
+  ],
   "dependencies": {
-    "axios": "^1.7.7",
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.5",
     "express": "^4.21.1"
