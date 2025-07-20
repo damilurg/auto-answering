@@ -1,10 +1,14 @@
 {
   "name": "auto-answering",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "damilurg",
   "description": "A configurable Node.js Telegram bot for Premium users that automatically replies to messages based on customizable triggers and replies, simulates typing behavior, supports multi-language responses, and logs messages for auditing.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damilurg/auto-answering.git"
+  },
   "engines": {
     "node": ">=18.0.0"
   },
